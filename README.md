@@ -21,7 +21,7 @@
 ![Elixir](https://img.shields.io/badge/-Elixir-22212C?style=flat&logo=elixir&logoColor=9580FF)&nbsp;
 ![Phoenix](https://img.shields.io/badge/-Phoenix-22212C?style=flat&logo=codeigniter&logoColor=FF9580)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-22212C?style=flat&logo=lua&logoColor=9580FF)&nbsp;
-![Vim](https://img.shields.io/badge/-Vim-22212C?style=flat&logo=vim&logoColor=8AFF80)&nbsp;
+![NeoVim](https://img.shields.io/badge/-NeoVim-22212C?style=flat&logo=neovim&logoColor=8AFF80)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-22212C?style=flat&logo=visual-studio-code&logoColor=9580FF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-22212C?style=flat&logo=git&logoColor=FFCA80)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-22212C?style=flat&logo=github&logoColor=F8F8F2)&nbsp;
