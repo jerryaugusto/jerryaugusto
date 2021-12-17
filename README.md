@@ -10,7 +10,7 @@
 
 - 😃 Sometimes I publish some content on [Medium](https://medium.com/@jerryaugusto)
 
-- 💬 Ask me about **Elixir, Phoenix, SQL**
+- 💬 Ask me about Elixir 💧, Phoenix 🔥 or Lua 🌕
 
 - ⚡ Fun fact: **I'm a Dracula Theme lover** 🤓
 
