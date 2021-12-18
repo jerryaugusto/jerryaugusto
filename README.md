@@ -37,8 +37,8 @@
 ## 📊 &nbsp;GitHub Analytics
 
 <p align="left">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=jerryaugusto&show_icons=true&theme=dracula&title_color=FF80BF&text_color=F8F8F2&bg_color=22212C&icon_color=8AFF80&border_color=9580FF&layout=default" alt="jerry augusto's stats"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryaugusto&theme=dracula&title_color=FF80BF&text_color=F8F8F2&bg_color=22212C&icon_color=8AFF80&border_color=9580FF&layout=compact&include_all_commits=true&count_private=true" alt="jerry augusto's most languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerryaugusto&show_icons=true&theme=dracula&title_color=FF80BF&text_color=F8F8F2&bg_color=22212C&icon_color=8AFF80&border_color=9580FF&layout=default" alt="jerry augusto's stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryaugusto&theme=dracula&title_color=FF80BF&text_color=F8F8F2&bg_color=22212C&icon_color=8AFF80&border_color=9580FF&layout=compact&include_all_commits=true&count_private=true" alt="jerry augusto's most languages"/>
 </p>
 
 <br><br>
