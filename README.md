@@ -2,34 +2,35 @@
 # <h1 align="left">Hi, there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryaugusto&color=9580FF&style=flat" alt="Profile views" /> </p>
 
-- 🔥 Back end developer.
+- 🔥 Data Scientist.
 
 - 🔭 I’m currently looking for new job opportunities.
 
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/jerryaugusto?tab=repositories).
 
-- 😃 Sometimes I publish some content on [Medium](https://medium.com/@jerryaugusto)
+- 😃 You can find more details of my work on my [Kaggle](https://www.kaggle.com/jerryaugusto) profile.
 
-- 💬 Ask me about Elixir 💧, Phoenix 🔥 or Lua 🌕
+- 💬 Ask me about Python 🐍, R 🤞 or Statistics 🤓
 
-- ⚡ Fun fact: **I'm a Dracula Theme lover** 🤓
+- ⚡ Fun fact: **I'm a barista enthusiast** ☕
 
+<!-- -  Sometimes I publish some content on [Medium](https://medium.com/@jerryaugusto) -->
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
-![Elixir](https://img.shields.io/badge/-Elixir-22212C?style=flat&logo=elixir&logoColor=9580FF)&nbsp;
-![Phoenix](https://img.shields.io/badge/-Phoenix-22212C?style=flat&logo=codeigniter&logoColor=FF9580)&nbsp;
-![Lua](https://img.shields.io/badge/-Lua-22212C?style=flat&logo=lua&logoColor=9580FF)&nbsp;
-![NeoVim](https://img.shields.io/badge/-NeoVim-22212C?style=flat&logo=neovim&logoColor=8AFF80)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-22212C?style=flat&logo=visual-studio-code&logoColor=9580FF)&nbsp;
+![Python](https://img.shields.io/badge/-Python-22212C?style=flat&logo=python&logoColor=8AFF80)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-22212C?style=flat&logo=jupyter&logoColor=FF9580)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-22212C?style=flat&logo=pandas&logoColor=9580FF)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-22212C?style=flat&logo=numpy&logoColor=9580FF)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-22212C?style=flat&logo=anaconda&logoColor=8AFF80)&nbsp;
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-22212C?style=flat&logo=scikitlearn&logoColor=FFCA80)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-22212C?style=flat&logo=pycharm&logoColor=8AFF80)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-22212C?style=flat&logo=git&logoColor=FFCA80)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-22212C?style=flat&logo=github&logoColor=F8F8F2)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-22212C?style=flat&logo=linux&logoColor=FFCA80)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-22212C?style=flat&logo=markdown&logoColor=F8F8F2)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-22212C?style=flat&logo=postgresql&logoColor=9580FF)&nbsp;
-<!-- ![HTML](https://img.shields.io/badge/-HTML-22212C?style=flat&logo=HTML5&logoColor=FFCA80)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-22212C?style=flat&logo=CSS3&logoColor=9580FF)&nbsp; -->
+![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-22212C?style=flat&logo=oracle&logoColor=FF9580)&nbsp;
 
 
 <br><br>
@@ -50,6 +51,9 @@
 <a href="https://linkedin.com/in/jerryaugustodev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jerryaugustodev-22212C?style=flat&labelColor=F8F8F2&logo=linkedin&logoColor=9580FF" alt="linkedin"/>
 </a>
+<a href="https://www.kaggle.com/jerryaugusto" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-jerryaugusto-22212C?style=flat&labelColor=9580FF&logoColor=F8F8F2&logo=kaggle" alt="kaggle"/>
+</a>
 <a href="mailto:jerryaugustodev@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-jerryaugustodev-22212C?style=flat&labelColor=FF9580&logoColor=F8F8F2&logo=gmail" alt="gmail"/>
 </a>
@@ -59,9 +63,9 @@
 <a href="https://instagram.com/jerryaugustodev" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-jerryaugustodev-22212C?style=flat&labelColor=F8F8F2&logoColor=FF9580&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://medium.com/@jerryaugusto" target="_blank">
+<!-- <a href="https://medium.com/@jerryaugusto" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-@jerryaugusto-22212C?style=flat&labelColor=F8F8F2&logoColor=21222C&logo=medium" alt="medium"/>
-</a>
+</a> -->
 </p>
 
 
