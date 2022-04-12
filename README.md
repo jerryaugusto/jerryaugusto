@@ -2,15 +2,15 @@
 # <h1 align="left">Hi, there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryaugusto&color=9580FF&style=flat" alt="Profile views" /> </p>
 
-- 🔥 Data Scientist.
+- 👨‍💻 Software engineer.
 
 - 🔭 I’m currently looking for new job opportunities.
 
-- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/jerryaugusto?tab=repositories).
+- 🔥 All of my projects are available at my [GitHub](https://github.com/jerryaugusto?tab=repositories).
 
-- 😃 You can find more details of my work on my [Kaggle](https://www.kaggle.com/jerryaugusto) profile.
+<!-- - 😃 You can find more details of my work on my [Kaggle](https://www.kaggle.com/jerryaugusto) profile. -->
 
-- 💬 Ask me about Python 🐍, R 🤞 or Statistics 🤓
+- 💬 Ask me about Elixir 💧️, Phoenix 🔥️ or Functional programming λ
 
 - ⚡ Fun fact: **I'm a barista enthusiast** ☕
 
@@ -19,18 +19,14 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-22212C?style=flat&logo=python&logoColor=8AFF80)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-22212C?style=flat&logo=jupyter&logoColor=FF9580)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-22212C?style=flat&logo=pandas&logoColor=9580FF)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-22212C?style=flat&logo=numpy&logoColor=9580FF)&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-22212C?style=flat&logo=anaconda&logoColor=8AFF80)&nbsp;
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-22212C?style=flat&logo=scikitlearn&logoColor=FFCA80)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-22212C?style=flat&logo=pycharm&logoColor=8AFF80)&nbsp;
+![Elixir](https://img.shields.io/badge/-Elixir-22212C?style=flat&logo=elixir&logoColor=9580FF)&nbsp;
+![Phoenix](https://img.shields.io/badge/-Phoenix-22212C?style=flat&logo=hotjar&logoColor=FF9580)&nbsp;
+![Postgre](https://img.shields.io/badge/-PostgreSQL-22212C?style=flat&logo=postgresql&logoColor=9580FF)&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-22212C?style=flat&logo=visualstudiocode&logoColor=9580FF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-22212C?style=flat&logo=git&logoColor=FFCA80)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-22212C?style=flat&logo=github&logoColor=F8F8F2)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-22212C?style=flat&logo=linux&logoColor=FFCA80)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-22212C?style=flat&logo=markdown&logoColor=F8F8F2)&nbsp;
-![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-22212C?style=flat&logo=oracle&logoColor=FF9580)&nbsp;
 
 
 <br><br>
@@ -51,9 +47,9 @@
 <a href="https://linkedin.com/in/jerryaugustodev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jerryaugustodev-22212C?style=flat&labelColor=F8F8F2&logo=linkedin&logoColor=9580FF" alt="linkedin"/>
 </a>
-<a href="https://www.kaggle.com/jerryaugusto" target="_blank">
+<!-- <a href="https://www.kaggle.com/jerryaugusto" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jerryaugusto-22212C?style=flat&labelColor=9580FF&logoColor=F8F8F2&logo=kaggle" alt="kaggle"/>
-</a>
+</a> -->
 <a href="mailto:jerryaugustodev@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-jerryaugustodev-22212C?style=flat&labelColor=FF9580&logoColor=F8F8F2&logo=gmail" alt="gmail"/>
 </a>
