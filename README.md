@@ -8,9 +8,9 @@
 
 ### What I'm working on. 👨‍💻
 
-👦 Currently building my personal website - [jerryaugusto.com](https://jerryaugusto.com) <br>
-📚 Currently studying about UI/UX at - [@Origamid](https://github.com/origamid) <br>
-📚 Currently studying about deployment strategies at - [@Rocketseat](https://github.com/rocketseat)
+🙋 Currently building my personal website - [jerryaugusto.com](https://jerryaugusto.com) <br>
+🎯 Currently studying about UI/UX at - [@Origamid](https://github.com/origamid) <br>
+🧐 Currently studying about deployment strategies at - [@Rocketseat](https://github.com/rocketseat)
 
 
 ### Tech stack. 🛠
