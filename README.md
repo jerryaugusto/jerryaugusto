@@ -10,7 +10,7 @@
 
 <!-- 🙋 Currently building my personal website - [jerryaugusto.com](https://jerryaugusto.com) <br> -->
 🧐 Currently studying about OTP at - [@Rocketseat](https://github.com/rocketseat) <br>
-📚 Currently reading "[Learn Functional Programming with Elixir](https://www.amazon.com.br/Functional-Programming-Elixir-Ulisses-Almeida/dp/168050245X/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1MK3X2DMLLVGT&keywords=Learn+Functional+Programming+with+Elixir&qid=1662774768&sprefix=learn+functional+programming+with+elixir%2Caps%2C196&sr=8-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74#detailBullets_feature_div)"
+📚 Currently reading "[Elixir in Action](https://www.amazon.com/Elixir-Action-Sa%C5%A1a-Juri-cacute/dp/1617295027/ref=sr_1_2_sspa?keywords=Learn+Functional+Programming+with+Elixir&qid=1662905838&sr=8-2-spons&psc=1)"
 
 
 ### Tech stack. 🛠
