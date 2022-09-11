@@ -10,7 +10,7 @@
 
 <!-- 🙋 Currently building my personal website - [jerryaugusto.com](https://jerryaugusto.com) <br> -->
 🧐 Currently studying about OTP at - [@Rocketseat](https://github.com/rocketseat) <br>
-📚 Currently reading "[Elixir in Action](https://www.amazon.com/Elixir-Action-Sa%C5%A1a-Juri-cacute/dp/1617295027/ref=sr_1_2_sspa?keywords=Learn+Functional+Programming+with+Elixir&qid=1662905838&sr=8-2-spons&psc=1)"
+📚 Currently reading "[Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition)"
 
 
 ### Tech stack. 🛠
