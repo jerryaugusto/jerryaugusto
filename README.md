@@ -18,6 +18,8 @@
 ![React](https://img.shields.io/badge/-React-22212C?style=flat&logo=react&logoColor=9580FF)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-22212C?style=flat&logo=typescript&logoColor=9580FF)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-22212C?style=flat&logo=next.js&logoColor=F8F8F2)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-22212C?style=flat&logo=tailwindcss&logoColor=9580FF)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-22212C?style=flat&logo=figma&logoColor=FF9580)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-22212C?style=flat&logo=docker&logoColor=9580FF)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-22212C?style=flat&logo=graphql&logoColor=FF80BF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-22212C?style=flat&logo=git&logoColor=FFCA80)&nbsp;
