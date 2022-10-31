@@ -19,9 +19,8 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-22212C?style=flat&logo=numpy&logoColor=9580FF)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-22212C?style=flat&logo=pandas&logoColor=F8F8F2)&nbsp;
 ![Streamlit](https://img.shields.io/badge/-Streamlit-22212C?style=flat&logo=streamlit&logoColor=FF9580)&nbsp;
-![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-22212C?style=flat&logo=scikitlearn&logoColor=FFCA80)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-22212C?style=flat&logo=docker&logoColor=9580FF)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-22212C?style=flat&logo=graphql&logoColor=FF80BF)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-22212C?style=flat&logo=scikit-learn&logoColor=FFCA80)&nbsp;
+![R](https://img.shields.io/badge/-R-22212C?style=flat&logo=r&logoColor=9580FF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-22212C?style=flat&logo=git&logoColor=FFCA80)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-22212C?style=flat&logo=linux&logoColor=FFCA80)&nbsp;
 <!-- ![Erlang](https://img.shields.io/badge/-Erlang-22212C?style=flat&logo=erlang&logoColor=FF9580)&nbsp; -->
