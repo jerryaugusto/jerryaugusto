@@ -10,7 +10,7 @@
 
 <!-- 🙋 Currently building my personal website - [jerryaugusto.com](https://jerryaugusto.com) <br> -->
 🌳 Currently studying about decision trees at [@Ebac](https://ebaconline.com.br) <br>
-🐺 Currently studying about clustering at [@Mentorama](https://mentorama.com.br)
+🧠 Currently studying about machine learning at [@Mentorama](https://mentorama.com.br)
 
 
 ### Tech stack. 🛠
