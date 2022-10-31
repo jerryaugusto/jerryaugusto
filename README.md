@@ -2,24 +2,24 @@
 ### Hello, world! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="24px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryaugusto&color=9580FF&style=flat" alt="Profile views" /> </p>
 
-🖥 React developer. <br>
+📊 Data scientist. <br>
 🇧🇷 Based in Brazil. <br>
 🔭 I’m currently looking for new job opportunities. <br>
 
 ### What I'm working on. 👨‍💻
 
 <!-- 🙋 Currently building my personal website - [jerryaugusto.com](https://jerryaugusto.com) <br> -->
-🚀 Currently studying about api performance at [@Rocketseat](https://github.com/rocketseat) <br>
-🐺 Currently studying about usability heuristics at [@Origamid](https://github.com/origamid)
+🌳 Currently studying about decision trees at [@Ebac](https://ebaconline.com.br) <br>
+🐺 Currently studying about clustering at [@Mentorama](https://mentorama.com.br)
 
 
 ### Tech stack. 🛠
 
-![React](https://img.shields.io/badge/-React-22212C?style=flat&logo=react&logoColor=9580FF)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-22212C?style=flat&logo=typescript&logoColor=9580FF)&nbsp;
-![Next](https://img.shields.io/badge/-Next-22212C?style=flat&logo=next.js&logoColor=F8F8F2)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-22212C?style=flat&logo=tailwindcss&logoColor=9580FF)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-22212C?style=flat&logo=figma&logoColor=FF9580)&nbsp;
+![Python](https://img.shields.io/badge/-Python-22212C?style=flat&logo=python&logoColor=FFFF80)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-22212C?style=flat&logo=numpy&logoColor=9580FF)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-22212C?style=flat&logo=pandas&logoColor=F8F8F2)&nbsp;
+![Streamlit](https://img.shields.io/badge/-Streamlit-22212C?style=flat&logo=streamlit&logoColor=FF9580)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-22212C?style=flat&logo=scikitlearn&logoColor=FFCA80)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-22212C?style=flat&logo=docker&logoColor=9580FF)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-22212C?style=flat&logo=graphql&logoColor=FF80BF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-22212C?style=flat&logo=git&logoColor=FFCA80)&nbsp;
@@ -30,6 +30,6 @@
 ### Find me elsewhere. 🌎
 
 🏠 [Site](https://jerryaugusto.com) <br>
-🐦 [Twitter](https://twitter.com/jerryaugustodev) <br>
-📸 [Instagram](https://instagram.com/jerryaugustodev) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/jerryaugustodev) <br>
+🐦 [Twitter](https://twitter.com/jerryaugustods) <br>
+📸 [Instagram](https://instagram.com/jerryaugustods) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/jerryaugustods) <br>
