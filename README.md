@@ -19,7 +19,9 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-22212C?style=flat&logo=numpy&logoColor=9580FF)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-22212C?style=flat&logo=pandas&logoColor=F8F8F2)&nbsp;
 ![Streamlit](https://img.shields.io/badge/-Streamlit-22212C?style=flat&logo=streamlit&logoColor=FF9580)&nbsp;
-![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-22212C?style=flat&logo=scikit-learn&logoColor=FFCA80)&nbsp;<br>
+![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-22212C?style=flat&logo=scikit-learn&logoColor=FFCA80)&nbsp;
+![PowerBi](https://img.shields.io/badge/-PowerBi-22212C?style=flat&logo=powerbi&logoColor=FFFF80)&nbsp;<br>
+![Excel](https://img.shields.io/badge/-Excel-22212C?style=flat&logo=microsoftexcel&logoColor=8AFF80)&nbsp;
 ![TensorFLow](https://img.shields.io/badge/-TensorFLow-22212C?style=flat&logo=tensorflow&logoColor=FFCA80)&nbsp;
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-22212C?style=flat&logo=apachespark&logoColor=FFCA80)&nbsp;
 ![R](https://img.shields.io/badge/-R-22212C?style=flat&logo=r&logoColor=9580FF)&nbsp;
