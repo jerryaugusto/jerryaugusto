@@ -2,26 +2,26 @@
 ### Hello, world! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="24px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryaugusto&color=9580FF&style=flat" alt="Profile views" /> </p>
 
-📊 React Developer. <br>
+🤓 Backend Developer. <br>
 🇧🇷 Based in Brazil. <br>
 🔭 I’m currently looking for new job opportunities. <br>
 
 ### What I'm working on. 👨‍💻
 
 <!-- 🙋 Currently building my personal website - [jerryaugusto.com](https://jerryaugusto.com) <br> -->
-🚀 Currently studying about design systemse at [@Rocketseat](https://github.com/rocketseat) <br>
-🐺 Currently studying about user interface at [@Origamid](https://github.com/origamid)
+🚀 Currently studying about Serverless at [@Rocketseat](https://github.com/rocketseat) <br>
+🧑‍💻 Currently studying about RESTful APIs at [@Cod3r](https://github.com/cod3rcursos)
 
 
 ### Tech stack. 🛠
 
-![React](https://img.shields.io/badge/-React-22212C?style=flat&logo=react&logoColor=9580FF)&nbsp;
+![Node](https://img.shields.io/badge/-Node-22212C?style=flat&logo=node.js&logoColor=8AFF80)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-22212C?style=flat&logo=typescript&logoColor=9580FF)&nbsp;
-![TailWind](https://img.shields.io/badge/-TailWind-22212C?style=flat&logo=tailwindcss&logoColor=80FFEA)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-22212C?style=flat&logo=html5&logoColor=FFCA80)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-22212C?style=flat&logo=css3&logoColor=9580FF)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-22212C?style=flat&logo=node.js&logoColor=8AFF80)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-22212C?style=flat&logo=jest&logoColor=FF9580)&nbsp;
+![Nest](https://img.shields.io/badge/-Nest-22212C?style=flat&logo=nestjs&logoColor=FF9580)&nbsp;
+![Express](https://img.shields.io/badge/-Express-22212C?style=flat&logo=express&logoColor=F8F8F2)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-22212C?style=flat&logo=mongodb&logoColor=8AFF80)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-22212C?style=flat&logo=githubactions&logoColor=9580FF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-22212C?style=flat&logo=git&logoColor=FFCA80)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-22212C?style=flat&logo=linux&logoColor=FFCA80)&nbsp;
 
