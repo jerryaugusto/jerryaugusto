@@ -18,6 +18,7 @@
 ![Python](https://img.shields.io/badge/-Python-22212C?style=flat&logo=python&logoColor=FFFF80)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-22212C?style=flat&logo=django&logoColor=8AFF80)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-22212C?style=flat&logo=flask&logoColor=F8F8F2)&nbsp;
+![Celery](https://img.shields.io/badge/-Celery-22212C?style=flat&logo=celery&logoColor=8AFF80)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-22212C?style=flat&logo=selenium&logoColor=8AFF80)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-22212C?style=flat&logo=docker&logoColor=9580FF)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-22212C?style=flat&logo=amazonaws&logoColor=FFCA80)&nbsp;
