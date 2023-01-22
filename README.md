@@ -20,19 +20,22 @@
 ![Flask](https://img.shields.io/badge/-Flask-22212C?style=flat&logo=flask&logoColor=F8F8F2)&nbsp;
 ![Celery](https://img.shields.io/badge/-Celery-22212C?style=flat&logo=celery&logoColor=8AFF80)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-22212C?style=flat&logo=selenium&logoColor=8AFF80)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-22212C?style=flat&logo=docker&logoColor=9580FF)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-22212C?style=flat&logo=amazonaws&logoColor=FFCA80)&nbsp;
-![Git](https://img.shields.io/badge/-Git-22212C?style=flat&logo=git&logoColor=FFCA80)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-22212C?style=flat&logo=linux&logoColor=FFCA80)&nbsp;<br />
-![Anaconda](https://img.shields.io/badge/-Anaconda-22212C?style=flat&logo=anaconda&logoColor=8AFF80)&nbsp;
-![Streamlit](https://img.shields.io/badge/-Streamlit-22212C?style=flat&logo=streamlit&logoColor=FF9580)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-22212C?style=flat&logo=pandas&logoColor=F8F8F2)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-22212C?style=flat&logo=numpy&logoColor=9580FF)&nbsp;
-![Databricks](https://img.shields.io/badge/-Databricks-22212C?style=flat&logo=databricks&logoColor=FF9580)&nbsp;
-![PySpark](https://img.shields.io/badge/-PySpark-22212C?style=flat&logo=apachespark&logoColor=FFCA80)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-22212C?style=flat&logo=jupyter&logoColor=FFCA80)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-22212C?style=flat&logo=anaconda&logoColor=8AFF80)&nbsp;<br />
+![C++](https://img.shields.io/badge/-C++-22212C?style=flat&logo=c%2B%2B&logoColor=9580FF)&nbsp;
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-22212C?style=flat&logo=shell&logoColor=FFFF80)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-22212C?style=flat&logo=amazonaws&logoColor=FFCA80)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-22212C?style=flat&logo=docker&logoColor=9580FF)&nbsp;
+![Git](https://img.shields.io/badge/-Git-22212C?style=flat&logo=git&logoColor=FFCA80)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-22212C?style=flat&logo=githubactions&logoColor=9580FF)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-22212C?style=flat&logo=linux&logoColor=FFCA80)&nbsp;
 
 <!-- DA knowledge -->
+<!-- ![Streamlit](https://img.shields.io/badge/-Streamlit-22212C?style=flat&logo=streamlit&logoColor=FF9580)&nbsp; -->
+<!-- ![PySpark](https://img.shields.io/badge/-PySpark-22212C?style=flat&logo=apachespark&logoColor=FFCA80)&nbsp; -->
+<!-- ![Jupyter](https://img.shields.io/badge/-Jupyter-22212C?style=flat&logo=jupyter&logoColor=FFCA80)&nbsp; -->
+<!-- ![Numpy](https://img.shields.io/badge/-Numpy-22212C?style=flat&logo=numpy&logoColor=9580FF)&nbsp; -->
+<!-- ![Databricks](https://img.shields.io/badge/-Databricks-22212C?style=flat&logo=databricks&logoColor=FF9580)&nbsp; -->
 <!-- ![Tableau](https://img.shields.io/badge/-Tableau-22212C?style=flat&logo=tableau&logoColor=F8F8F2)&nbsp; -->
 <!-- ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-22212C?style=flat&logo=googlesheets&logoColor=8AFF80)&nbsp; -->
 <!-- ![Tidyverse](https://img.shields.io/badge/-Tidyverse-22212C?style=flat&logo=tidyverse&logoColor=F8F8F2)&nbsp; -->
