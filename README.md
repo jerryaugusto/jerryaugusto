@@ -2,15 +2,15 @@
 ### Hello, world! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="24px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryaugusto&color=9580FF&style=flat" alt="Profile views" /> </p>
 
-🤓 Software Engineer. <br>
+🤓 Data Scientist & Analyst. <br>
 🇧🇷 Based in Brazil. <br>
 🔭 I’m currently looking for new job opportunities. <br>
 
 ### What I'm working on. 👨‍💻
 
 <!-- 🙋 Currently building my personal website - [jerryaugusto.com](https://jerryaugusto.com) <br> -->
-📚 Currently studying about design patterns at [@Udemy](https://udemy.com)<br />
-📚 Currently studying about regression models at [@Ebac](https://ebaconline.com.br)
+📚 Currently studying about regression models at [@Ebac](https://ebaconline.com.br)<br />
+📚 Currently studying about clustering at [@Mentorama](https://mentorama.com.br/)
 
 
 ### Tech stack. 🛠
@@ -46,4 +46,4 @@
 🏠 [Site](https://jerryaugusto.com) <br />
 🐦 [Twitter](https://twitter.com/jerryaugustods) <br />
 📸 [Instagram](https://instagram.com/jerryaugustods) <br />
-💼 [LinkedIn](https://www.linkedin.com/in/jerryaugustodev) <br />
+💼 [LinkedIn](https://www.linkedin.com/in/jerryaugustods) <br />
