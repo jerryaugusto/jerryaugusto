@@ -1,5 +1,5 @@
 
-### Hello, world! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="24px">
+### Hello, world! <img src="https://www.rocketseat.com.br/assets/icons/emoji.svg" width="24px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryaugusto&color=9580FF&style=flat" alt="Profile views" /> </p>
 
 🤓 Data Scientist & Analyst. <br>
