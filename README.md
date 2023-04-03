@@ -15,20 +15,20 @@
 
 ### Tech stack. 🛠
 
-![Python](https://img.shields.io/badge/-Python-22212C?style=flat&logo=python&logoColor=FFFF80)&nbsp;
-![Django](https://img.shields.io/badge/-Django-22212C?style=flat&logo=django&logoColor=8AFF80)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-22212C?style=flat&logo=flask&logoColor=F8F8F2)&nbsp;
-![Celery](https://img.shields.io/badge/-Celery-22212C?style=flat&logo=celery&logoColor=8AFF80)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-22212C?style=flat&logo=selenium&logoColor=8AFF80)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-22212C?style=flat&logo=pandas&logoColor=F8F8F2)&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-22212C?style=flat&logo=anaconda&logoColor=8AFF80)&nbsp;<br />
-![C++](https://img.shields.io/badge/-C++-22212C?style=flat&logo=c%2B%2B&logoColor=9580FF)&nbsp;
-![Shell Script](https://img.shields.io/badge/-Shell%20Script-22212C?style=flat&logo=shell&logoColor=FFFF80)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-22212C?style=flat&logo=amazonaws&logoColor=FFCA80)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-22212C?style=flat&logo=docker&logoColor=9580FF)&nbsp;
-![Git](https://img.shields.io/badge/-Git-22212C?style=flat&logo=git&logoColor=FFCA80)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-22212C?style=flat&logo=githubactions&logoColor=9580FF)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-22212C?style=flat&logo=linux&logoColor=FFCA80)&nbsp;
+![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat&logo=python&logoColor=f9e2af)&nbsp;
+![Django](https://img.shields.io/badge/-Django-1e1e2e?style=flat&logo=django&logoColor=a6e3a1)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-1e1e2e?style=flat&logo=flask&logoColor=cdd6f4)&nbsp;
+![Celery](https://img.shields.io/badge/-Celery-1e1e2e?style=flat&logo=celery&logoColor=a6e3a1)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-1e1e2e?style=flat&logo=selenium&logoColor=a6e3a1)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-1e1e2e?style=flat&logo=pandas&logoColor=cdd6f4)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-1e1e2e?style=flat&logo=anaconda&logoColor=a6e3a1)&nbsp;<br />
+![C++](https://img.shields.io/badge/-C++-1e1e2e?style=flat&logo=c%2B%2B&logoColor=89b4fa)&nbsp;
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-1e1e2e?style=flat&logo=shell&logoColor=f9e2af)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-1e1e2e?style=flat&logo=amazonaws&logoColor=fab387)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-1e1e2e?style=flat&logo=docker&logoColor=89b4fa)&nbsp;
+![Git](https://img.shields.io/badge/-Git-1e1e2e?style=flat&logo=git&logoColor=fab387)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-1e1e2e?style=flat&logo=githubactions&logoColor=89b4fa)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-1e1e2e?style=flat&logo=linux&logoColor=fab387)&nbsp;
 
 <!-- DA knowledge -->
 <!-- ![Streamlit](https://img.shields.io/badge/-Streamlit-22212C?style=flat&logo=streamlit&logoColor=FF9580)&nbsp; -->
