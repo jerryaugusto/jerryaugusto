@@ -11,7 +11,7 @@
 
 <!-- 🙋 Currently building my personal website - [jerryaugusto.com](https://jerryaugusto.com) <br> -->
 🔵 Currently studying about SOLID at [@Udemy](https://udemy.com)<br />
-🚀 Currently studying about DDD at [@Rocketseat](https://rocketseat.com.br/)
+<!-- 🚀 Currently studying about DDD at [@Rocketseat](https://rocketseat.com.br/) -->
 
 
 ### Tech stack. 🛠
