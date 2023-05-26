@@ -16,20 +16,15 @@
 
 ### Tech stack. 🛠
 
-![Node](https://img.shields.io/badge/-Node-1e1e2e?style=flat&logo=node.js&logoColor=a6e3a1)&nbsp;
-![Nest](https://img.shields.io/badge/-Nest-1e1e2e?style=flat&logo=nestjs&logoColor=f38ba8)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-1e1e2e?style=flat&logo=typescript&logoColor=cba6f7)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-1e1e2e?style=flat&logo=jest&logoColor=f38ba8)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e2e?style=flat&logo=javascript&logoColor=f9e2af)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-1e1e2e?style=flat&logo=vite&logoColor=cba6f7)&nbsp;
-![Vitest](https://img.shields.io/badge/-Vitest-1e1e2e?style=flat&logo=vitest&logoColor=a6e3a1)&nbsp;<br />
-![C++](https://img.shields.io/badge/-C++-1e1e2e?style=flat&logo=c%2B%2B&logoColor=89b4fa)&nbsp;
-![Shell Script](https://img.shields.io/badge/-Shell%20Script-1e1e2e?style=flat&logo=shell&logoColor=f9e2af)&nbsp;
+![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat&logo=python&logoColor=f9e2af)&nbsp;
+![Django](https://img.shields.io/badge/-Django-1e1e2e?style=flat&logo=django&logoColor=a6e3a1)&nbsp;
+![FastApi](https://img.shields.io/badge/-FastApi-1e1e2e?style=flat&logo=fastapi&logoColor=a6e3a1)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-1e1e2e?style=flat&logo=flask&logoColor=cdd6f4)&nbsp; <br />
+![Vim](https://img.shields.io/badge/-Vim-1e1e2e?style=flat&logo=vim&logoColor=a6e3a1)&nbsp;
+![Manjaro](https://img.shields.io/badge/-Manjaro-1e1e2e?style=flat&logo=manjaro&logoColor=a6e3a1)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-1e1e2e?style=flat&logo=docker&logoColor=cba6f7)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-1e1e2e?style=flat&logo=amazonaws&logoColor=fab387)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-1e1e2e?style=flat&logo=docker&logoColor=89b4fa)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-1e1e2e?style=flat&logo=git&logoColor=fab387)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-1e1e2e?style=flat&logo=githubactions&logoColor=89b4fa)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-1e1e2e?style=flat&logo=linux&logoColor=fab387)&nbsp;
 
 <!-- DA knowledge -->
 <!-- ![Streamlit](https://img.shields.io/badge/-Streamlit-22212C?style=flat&logo=streamlit&logoColor=FF9580)&nbsp; -->
