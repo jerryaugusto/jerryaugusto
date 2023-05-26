@@ -2,26 +2,27 @@
 ### Hello, world! <img src="https://www.rocketseat.com.br/assets/icons/emoji.svg" width="24px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryaugusto&color=9580FF&style=flat" alt="Profile views" /> </p>
 
-🤓 Data Scientist & Analyst. <br>
-🇧🇷 Based in Brazil. <br>
-🔭 I’m currently looking for new job opportunities. <br>
+### $ whoami
+🧑‍💻  Back-end developer. <br>
+🇧🇷  Based in Brazil. <br>
+🔭  I’m currently looking for new job opportunities. <br>
 
-### What I'm working on. 👨‍💻
+### What I'm working on. 🤓
 
 <!-- 🙋 Currently building my personal website - [jerryaugusto.com](https://jerryaugusto.com) <br> -->
-📚 Currently studying about regression models at [@Ebac](https://ebaconline.com.br)<br />
-📚 Currently studying about clustering at [@Mentorama](https://mentorama.com.br/)
+🔵 Currently studying about SOLID at [@Udemy](https://udemy.com)<br />
+🚀 Currently studying about DDD at [@Rocketseat](https://rocketseat.com.br/)
 
 
 ### Tech stack. 🛠
 
-![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat&logo=python&logoColor=f9e2af)&nbsp;
-![Django](https://img.shields.io/badge/-Django-1e1e2e?style=flat&logo=django&logoColor=a6e3a1)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-1e1e2e?style=flat&logo=flask&logoColor=cdd6f4)&nbsp;
-![Celery](https://img.shields.io/badge/-Celery-1e1e2e?style=flat&logo=celery&logoColor=a6e3a1)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-1e1e2e?style=flat&logo=selenium&logoColor=a6e3a1)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-1e1e2e?style=flat&logo=pandas&logoColor=cdd6f4)&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-1e1e2e?style=flat&logo=anaconda&logoColor=a6e3a1)&nbsp;<br />
+![Node](https://img.shields.io/badge/-Node-1e1e2e?style=flat&logo=node.js&logoColor=a6e3a1)&nbsp;
+![Nest](https://img.shields.io/badge/-Nest-1e1e2e?style=flat&logo=nestjs&logoColor=f38ba8)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-1e1e2e?style=flat&logo=typescript&logoColor=cba6f7)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-1e1e2e?style=flat&logo=jest&logoColor=f38ba8)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e2e?style=flat&logo=javascript&logoColor=f9e2af)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-1e1e2e?style=flat&logo=vite&logoColor=cba6f7)&nbsp;
+![Vitest](https://img.shields.io/badge/-Vitest-1e1e2e?style=flat&logo=vitest&logoColor=a6e3a1)&nbsp;<br />
 ![C++](https://img.shields.io/badge/-C++-1e1e2e?style=flat&logo=c%2B%2B&logoColor=89b4fa)&nbsp;
 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-1e1e2e?style=flat&logo=shell&logoColor=f9e2af)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-1e1e2e?style=flat&logo=amazonaws&logoColor=fab387)&nbsp;
@@ -44,6 +45,6 @@
 ### Find me elsewhere. 🌎
 
 🏠 [Site](https://jerryaugusto.com) <br />
-🐦 [Twitter](https://twitter.com/jerryaugustods) <br />
-📸 [Instagram](https://instagram.com/jerryaugustods) <br />
-💼 [LinkedIn](https://www.linkedin.com/in/jerryaugustods) <br />
+🐦 [Twitter](https://twitter.com/jerryaugustodev) <br />
+📸 [Instagram](https://instagram.com/jerryaugustodev) <br />
+💼 [LinkedIn](https://www.linkedin.com/in/jerryaugustodev) <br />
