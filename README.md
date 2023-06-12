@@ -1,5 +1,5 @@
 
-### Hello, world! <img src="https://www.rocketseat.com.br/assets/icons/emoji.svg" width="24px">
+### Hello, world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryaugusto&color=9580FF&style=flat" alt="Profile views" /> </p>
 
 ### $ whoami
