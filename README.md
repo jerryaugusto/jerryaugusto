@@ -65,4 +65,4 @@
 
 <!-- <p align="center"><font size="">Made with 🤎, Jerry Augusto.</font></p> -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a6e3a1&height=120&section=footer"/>
