@@ -52,8 +52,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jerryaugusto&bg_color=181825&color=9e4c98&line=cba6f7&point=1e1e2e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### Find me elsewhere. 🌎
 
 🏠 [Site](https://jerryaugusto.com) <br />
@@ -61,7 +59,10 @@
 📸 [Instagram](https://instagram.com/jerryaugustodev) <br />
 💼 [LinkedIn](https://www.linkedin.com/in/jerryaugustodev) <br />
 
+<hr />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jerryaugusto&bg_color=181825&color=9e4c98&line=cba6f7&point=1e1e2e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- <p align="center"><font size="">Made with 🤎, Jerry Augusto.</font></p> -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11111b&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=120&section=footer"/>
