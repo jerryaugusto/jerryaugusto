@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryaugusto&color=cba6f7&style=flat" alt="Profile views" /> </p>
 
 ### $ ~/
-🧑‍💻  Full Cycle Python developer. <br>
+🧑‍💻  Full Cycle PHP developer. <br>
 🇧🇷  Based in Brazil. <br>
 🔭  I’m currently looking for new job opportunities. <br>
 
@@ -16,11 +16,10 @@
 
 ### Tech stack. 🛠
 
-![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat&logo=python&logoColor=f9e2af)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-1e1e2e?style=flat&logo=php&logoColor=89b4fa)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-1e1e2e?style=flat&logo=go&logoColor=89b4fa)&nbsp;
-![Django](https://img.shields.io/badge/-Django-1e1e2e?style=flat&logo=django&logoColor=a6e3a1)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-1e1e2e?style=flat&logo=fastapi&logoColor=a6e3a1)&nbsp;
-![Poetry](https://img.shields.io/badge/-Poetry-1e1e2e?style=flat&logo=poetry&logoColor=89b4fa)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-1e1e2e?style=flat&logo=laravel&logoColor=f38ba8)&nbsp;
+![Composer](https://img.shields.io/badge/-Composer-1e1e2e?style=flat&logo=composer&logoColor=fab387)&nbsp;
 ![React](https://img.shields.io/badge/-React-1e1e2e?style=flat&logo=react&logoColor=89b4fa)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-1e1e2e?style=flat&logo=docker&logoColor=89b4fa)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-1e1e2e?style=flat&logo=kubernetes&logoColor=89b4fa)&nbsp;<br />
