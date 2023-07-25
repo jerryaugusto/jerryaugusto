@@ -2,7 +2,9 @@
 ### Hello, world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryaugusto&color=cba6f7&style=flat" alt="Profile views" /> </p>
 
-### $ ~/
+---
+
+### <?
 🧑‍💻  Full Cycle PHP developer. <br>
 🇧🇷  Based in Brazil. <br>
 🔭  I’m currently looking for new job opportunities. <br>
