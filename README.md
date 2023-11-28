@@ -21,14 +21,16 @@ func GetCurrentWorkPosition() string {
 
 func GetWorkingOn() []string {
 	return []string{
-		"💠 Currently studying about advanced hexagonal architecture at @FullCycle",
-		"🐙 Currently studying about advanced git and github techniques at @FullCycle",
+		"💠 Currently studying about hexagonal architecture at @FullCycle",
+		"🐙 Currently studying about event driven architecture (EDA) at @FullCycle",
 	}
 }
 
 func GetDailyKnowledge() []string {
 	return []string{
-		"GoLang",
+		"Go",
+		"Docker",
+		"Kubernetes",
 		"Amazon Web Services",
 		"Elixir",
 		"Kafka",
@@ -38,8 +40,6 @@ func GetDailyKnowledge() []string {
 		"Istio",
 		"Kong",
 		"Ansible",
-		"Kubernetes",
-		"Docker",
 	}
 
 
