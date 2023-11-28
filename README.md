@@ -22,7 +22,7 @@ func GetCurrentWorkPosition() string {
 func GetWorkingOn() []string {
 	return []string{
 		"💠 Currently studying about hexagonal architecture at @FullCycle",
-		"🐙 Currently studying about event driven architecture (EDA) at @FullCycle",
+		"📨 Currently studying about event driven architecture (EDA) at @FullCycle",
 	}
 }
 
